@@ -5,7 +5,7 @@ function setup() {
 }
 
 function draw() {
-  background(240);
+  background(0,0,240);
   stroke(0);
   noFill();
 
