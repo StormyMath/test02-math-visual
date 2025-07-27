@@ -8,3 +8,4 @@ title: 教材一覧
 ## 📚 教材リスト
 
 - [放物線の教材](parabola.md)
+- [mathjax-sample](mathjax-sample/index.md)
