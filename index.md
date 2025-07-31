@@ -7,11 +7,15 @@ title: 教材一覧
 
 ## 📚 教材リスト(ver.9)
 
-- [放物線の教材](parabola.html)
+- [p5-js(放物線) の教材](parabola.html)
 
 - [React p5-js の教材](react-cdn-p5js-sample/index.html)
 
-- [React p5-js MathJax の教材](react-cdn-p5js-sample/reactp5js_mathjax.html)
+- [React p5-js & MathJax の教材](react-cdn-p5js-sample/reactp5js_mathjax.html)
+
+- [React-CDN only の教材](react-cdn-only-sample/index.html)
+
+- [React-CDN only & MathJax の教材](react-cdn-only-sample/reactcdn-mathjax.html)
 
 ---
 
