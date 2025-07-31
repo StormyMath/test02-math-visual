@@ -11,6 +11,8 @@ title: 教材一覧
 
 - [React p5-js の教材](react-cdn-p5js-sample/index.html)
 
+- [React p5-js MathJax の教材](react-cdn-p5js-sample/reactp5js_mathjax.html)
+
 ---
 
 - [colab-sample](calc-stat-advanced-templates/colab-sample/)
