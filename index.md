@@ -17,6 +17,9 @@ title: 教材一覧
 
 - [React-CDN only & MathJax の教材](react-cdn-only-sample/reactcdn-mathjax.html)
 
+- [useEffect テンプレート](reactcdn_mathjax_fullsample_fixed/reactcdn_mathjax_fullsample_fixed.html)
+
+
 ---
 
 - [colab-sample](calc-stat-advanced-templates/colab-sample/)
